@@ -1,0 +1,15 @@
+{
+  "name": "emmet-elm",
+  "version": "0.0.0",
+  "description": "An Emmet filter for Elm Html",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elm",
+    "emmet"
+  ],
+  "author": "Andreas Hultgren",
+  "license": "ISC"
+}
